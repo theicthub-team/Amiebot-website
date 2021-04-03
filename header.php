@@ -21,8 +21,9 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/default.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
 </head>
 
 <body>
@@ -47,32 +48,32 @@
                         <li class="nav-item active">
                             <a class="nav-link" href="#">
                                 <img src="img/icon/icon-1.png" alt="Icon">
-                                機能/特徴</a>
+                                <span>機能/特徴</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">
                                 <img src="img/icon/icon-2.png" alt="Icon">
-                                事例</a>
+                                <span>事例</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">
                                 <img src="img/icon/icon-3.png" alt="Icon">
-                                導入の流れ/<br />料金</a>
+                                <span> 導入の流れ/<br />料金</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">
                                 <img src="img/icon/icon-4.png" alt="Icon">
-                                お知らせ</a>
+                                <span>お知らせ</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">
                                 <img src="img/icon/icon-5.png" alt="Icon">
-                                コンテンツ</a>
+                                <span>コンテンツ</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">
                                 <img src="img/icon/icon-6.png" alt="Icon">
-                                お問い合わせ</a>
+                                <span>お問い合わせ</span></a>
                         </li>
                     </ul>
                 </div>
