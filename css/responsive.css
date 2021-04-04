@@ -12,6 +12,7 @@
 		left: 0;
 		padding-left: 0;
 	}
+	
 }
 
 /*Large devices (desktops, 992px and up)*/
@@ -21,6 +22,7 @@
 		left: 0;
 		padding-left: 0;
 	}*/
+	
 	.header_top {
 		display: none;
 	}
@@ -55,10 +57,15 @@
 	.navbar-nav.ml-auto {
 		background: black;
 	}
-
+	
 }
 
-/*Medium devices (tablets, 767px and down)*/
+/*Medium devices (tablets, 767px and up)*/
+@media (min-width: 765px) {
+	.display_none_big_765{
+		display: none;
+	}
+}
 @media (max-width: 765px) {
 	.navbar-nav.ml-auto {
 		background: black;
@@ -67,7 +74,9 @@
 		top: 100%;
 		width: 108%;
 	}
-
+	.display_none_small_765{
+		display: none;
+	}
 	/*.wrapper {
 		position: relative;
 		left: 0;
