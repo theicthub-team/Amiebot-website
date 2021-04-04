@@ -1,0 +1,26 @@
+.header_top {
+	font-family: yugothic;
+    font-weight: bold;
+    font-size: 18px;
+}
+.navbar-brand {
+    width: 320px;
+}
+.navbar-brand img{
+    width: 320px;
+}
+.navbar {
+    padding: 0px 0rem !important;
+    height: 120px;
+}
+.navbar-nav li a img {
+   padding-top: 24px;
+}
+.navbar-nav li{
+    min-width: 90px;
+}
+.navbar-nav li span {
+    padding-top: 17px;
+    font-family: yugothic;
+    font-size: 12px;
+}

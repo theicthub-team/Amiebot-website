@@ -73,6 +73,7 @@
 		left: -15px;
 		top: 100%;
 		width: 108%;
+		z-index: 99;
 	}
 	.display_none_small_765{
 		display: none;
@@ -253,6 +254,13 @@
 	}
 	.blank_iamges{
 		padding: 47px 0 54px 0;
+	}
+	.navbar{
+		height: 60px;
+	}
+	.border_class{
+		min-height: 60px;
+		height: 60px;
 	}
 }
 
