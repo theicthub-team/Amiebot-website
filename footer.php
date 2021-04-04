@@ -1,3 +1,18 @@
+ <!--===================== Footer One area Start =====================-->
+ <section class="footer_one">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="text-center">
+                            <h5>お気軽にご相談ください</h5>
+                            <div class="footer_btn">
+                                <a href="#" class="btn">お問い合わせ/お見積り依頼はこちら <i class="fas fa-chevron-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 <!--===================== Footer One area end =====================-->
 <!--===================== Footer Two area Start =====================-->
 <section class="footer_two">
