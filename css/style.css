@@ -415,7 +415,7 @@ label {
 	background: var(--theme_button);
 	color: #fff;
 	position: relative;
-	line-height: 50px;
+	height: 60px;
 	border-radius: 50px;
 	display: inline-block;
 	margin-top: 40px;
@@ -465,10 +465,14 @@ label {
 .button_with_case {
   text-align: center;
   padding-bottom: 50px;
+ 
 }
+
 .button_with_case a {
   padding: 19px 117px 17px 117px;
   border-radius: 50px;
+  height: 60px;
+    width: 320px;
   position: relative;
 }
 .button_with_case a i {
@@ -557,11 +561,18 @@ tr td:first-child {
 	background: var(--theme_bg);
 	padding: 46px 0 56px 0;
 }
+.footer_btn{
+	width: 555px ;
+	height:83px;
+	padding:95px 303px 57px 342px;
+}
 
 .footer_btn a {
-  padding: 22px 89px 28px 86px;
+  padding: 22px 89px 22px 86px;
   position: relative;
-  font-size: 25px;
+  font-size: 20px;
+  width: 380px ;
+  height:33px;
 }
 .footer_btn a i {
 	position: absolute;

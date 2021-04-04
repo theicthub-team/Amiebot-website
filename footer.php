@@ -13,7 +13,7 @@
                 </div>
             </div>
         </section>
-<!--===================== Footer One area end =====================-->
+        <!--===================== Footer One area end =====================-->
 <!--===================== Footer Two area Start =====================-->
 <section class="footer_two">
     <div class="container">
