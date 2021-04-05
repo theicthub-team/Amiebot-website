@@ -6,9 +6,9 @@
     </p>
     <p class="d-inline case_industry_heading_2 p-2" >社内特化</p>
     <div class="case_industry_yellow ">
-        <p class="case_industry_yellow_bg p-1 " style="max-width:300px;">設備マニュアル・施工事例を簡単に検索</p>
-        <p class="case_industry_yellow_bg p-1">設備マニュアル・施工事</p>
-        <p class="case_industry_yellow_bg p-1">設備マニュアル・施工事例を簡単に検索</p>
+        <p class="case_industry_yellow_bg p-1 col-sm-12" style="max-width:300px;">設備マニュアル・施工事例を簡単に検索</p>
+        <p class="case_industry_yellow_bg p-1 col-sm-12">設備マニュアル・施工事</p>
+        <p class="case_industry_yellow_bg p-1 col-sm-12">設備マニュアル・施工事例を簡単に検索</p>
 
     </div>
  </div>
