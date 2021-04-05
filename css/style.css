@@ -650,3 +650,27 @@ footer p {
 	position: absolute;
 	left: -15px;
 }
+.case_industry_heading_1{
+	font-size:30px;
+	height:30px;
+	width:240px;
+	font-weight:bold;
+}
+.case_industry_heading_2{
+	font-size: 16px;
+	height: 30px;
+	width: 115px;
+	background-color: #F5EEE6;
+}
+.case_industry_yellow{
+	
+	
+}
+.case_industry_yellow_bg{
+	background-color: #E6BA00;
+	font-size: 16px;
+	font-weight: bold;
+	
+	
+	word-wrap: break-word;
+}
