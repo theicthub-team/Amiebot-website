@@ -12,6 +12,9 @@
     </div>
 </section>
 
+
+<!-- page title section -->
+
 <section class="page_deatils display_none_small_765">
     <!-- <div class="container"> -->
     <div class="row">
@@ -20,7 +23,7 @@
         <div class="page_Title_blank" style=" background: url('../img/features/header_features.png');background-size: cover;">
         </div>
     </div>
-    <div class="container">
+    <div class="container" style="transform: translateY(-162px);">
         <div class="row">
             <div class="page_name">
                 <h1>Features</h1>
@@ -50,6 +53,138 @@
     </div>
     <!-- </div> -->
 </section>
+<!-- page title section end -->
+
+<!-- page feature point section start -->
+<section class="position-relative feature_points">
+    <div class="container">
+        <div class="row justify-content-md-end">
+            <div class="col-md-6  wrapper">
+                <div class="left_site ">
+                    <img src="img/features/features_1.png" class="img" alt="about">
+                </div>
+            </div>
+
+            <div class="offset-md-1 col-md-6">
+                <div class="case_description">
+                    <h6>point <span>01</span></h6>
+                    <h3>たったの2ステップで学習が完了！<br>「簡単自動学習機能」</h3>
+                    <p>
+                        チャットボットの導入にいて一番手間の掛かる初期導入時のシナリオ作成や、学習データの整形など不要！</p>
+                    <p>
+                        既にウェブヘルプがある場合は、学習したいページのトップURLの指定、マニュアルファイルやFAQデータファイルがあれば、ドラッグ＆ドロップするだけ。
+                        指定が完了したら「学習」ボタンを押すだけでチャットができる！</p>
+                    <p>
+                        チャットが完成したら精度のチェックをして表示したいウェブページにタグを追加するだけで導入可能です。
+                    </p>
+                </div>
+            </div>
+
+        </div>
 
 
+        <div class="row">
+            <div class="col-md-6 order-xs-1 ">
+                <div class="case_description">
+                    <h6>point <span>02</span></h6>
+                    <h3>利用状況が一目で分かる！<br>「利用状況監視機能」</h3>
+                    <p>
+                        利用状況を日別や時間帯別で確認でき、稼働が高い時期を一目で確認可能です。</p>
+                    <p>
+                        また、良く質問されるキーワードが自動集計され、登録されていないキーワードも含め確認できるため、学習させるべきポイントや、マニュアルなど手厚くすべきポイントが簡単に確認できます。</p>
+
+
+                </div>
+            </div>
+            <div class="col-md-6 order-xs-0 wrapper_right ">
+                <div class="">
+                    <img src="img/features/features_2.png" alt="case2.png" class="img-fluid">
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row justify-content-md-end">
+            <div class="col-md-6  wrapper">
+                <div class="left_site ">
+                    <img src="img/features/features_3.png" class="img" alt="about">
+                </div>
+            </div>
+
+            <div class="offset-md-1 col-md-6">
+                <div class="case_description">
+                    <h6>point <span>03</span></h6>
+                    <h3>回答の精度を向上させる！<br>「問合せ解析機能」</h3>
+                    <p>
+                        リアルタイムのチャットの履歴が確認でき、データをCSVで取り出すことができます。
+                        よくある質問や、より具体的にすべき回答は学習経過に合わせて追加するなど、問合せ傾向など含め確認することが可能となります。</p>
+
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+    </div>
+</section>
+
+<!-- page feature point section start -->
+
+<!-- page other point section start -->
+
+<section class="position-relative feature_points_others">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-12 text-center">
+                <img src="./img/features/Group 496.png" alt="...">
+            </div>
+            <div class="col-md-8 col-sm-12">
+                <h2>多言語対応</h2>
+                <p>amie(アミー）は現在14カ国語に対応。</p>
+                <p>
+                    英語・中国語・ドイツ語などの多言語でチャットボットを使うことができ、日本語以外のマニュアルも学習することができます。</p>
+                <p>
+                    言語を問わず学習を行い、チャットで英語の質問や、中国語など学習させたマニュアルやWeb ヘルプと異なる言語で質問をしても、自動で言語変換を行い、チャットで返答することが可能です。</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 col-sm-12 text-center">
+                <img src="./img/features/Group 510.png" alt="...">
+            </div>
+            <div class="col-md-8 col-sm-12">
+                <h2>辞書登録機能</h2>
+                <p>違う言い回しの単語をたくさん登録し、使われるキーワードを抽出して類義語を登録し、様々な言い回しに対応できるように学習させます。</p>
+                <p> 自社専用の専門用語サービス名など、回答できなかった単語も後で簡単に登録可能です。</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 col-sm-12 text-center">
+                <img src="./img/features/Group 534.png" alt="...">
+            </div>
+            <div class="col-md-8 col-sm-12">
+                <h2>シナリオ追加機能</h2>
+                <p>シナリオの機能は、機械学習上、データがある事柄に関してはカバーできますが、ウェブページに記載されていない内容の表示、特定の質問に必ず反応させたい場合などに使用します 。</p>
+                <p>
+                    似たような内容のお問合せを登録することで、反応しやすくなります。</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 col-sm-12 text-center">
+                <img src="./img/features/Group 523.png" alt="...">
+            </div>
+            <div class="col-md-8 col-sm-12">
+                <h2>手動返信機能</h2>
+                <p>今まで来たことのない質問や企業側が予想もしていなかった質問などをお持ちの場合もあり、チャットボットで準備した内容に収まらないケースも多くなります。</p>
+                <p>
+                    管理者側でユーザーのチャットでの問い合わせ状況をリアルタイムに確認でき、サポートデスクや担当者が直接対応を巻き取ることも可能となります。</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- page other point section end -->
 <?php include 'footer.php'; ?>
