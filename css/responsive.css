@@ -70,8 +70,113 @@
 		left: -1%;
 		
 	}
+	.case_industry_heading_1{
+		font-size:30px;
+		height:30px;
+		width:240px;
+		font-weight:bold;
+		display: inline;
+	}
+	.case_industry_heading_2{
+		font-size: 16px;
+		height: 30px;
+		width: 115px;
+		background-color: #F5EEE6;
+		display: inline;
+	}
+	.case_industry_yellow{
+		margin-top: 42px;
+		margin-left: 43px;
+		
+	}
+	.case_industry_yellow_bg{
+		background-color: #FFC900;
+		font-size: 16px;
+		font-weight: bold;
+		color: white;	
+	}
+	.case_industry_normal{
+		margin-top:40px;
+		margin-left: 43px;
+		
+	}
+	.case_industry_normal_1{
+		font-size:20px;
+		color:black;
+		font-weight:bold;
+		
+	}
+	.case_industry_normal_2{
+		font-size: 16px;
+		color:black;
+		font-weight:bold;
+	
+		
+		
+	}
+	.case_industry_normal_div{
+		background-color:#F5EEE6;
+		border-left:10px solid #FFC900
+	
+	}
+	.case_industry_yellow p{
+		width:310px;
+		padding-left:10px;
+	}
 }
 @media (max-width: 765px) {
+	.case_industry_yellow p{
+		
+		padding-left:10px;
+	}
+	.case_industry_heading_1{
+		font-size:30px;
+		height:30px;
+		width:240px;
+		font-weight:bold;
+	}
+	.case_industry_heading_2{
+		font-size: 16px;
+		height: 30px;
+		width: 115px;
+		background-color: #F5EEE6;
+	}
+	.case_industry_yellow{
+		margin-top: 42px;
+		
+		
+	}
+	.case_industry_yellow_bg{
+		background-color: #FFC900;
+		font-size: 16px;
+		font-weight: bold;
+		color: white;	
+	}
+	.case_industry_normal{
+		margin-top:40px;
+		
+		
+	}
+	.case_industry_normal_1{
+		font-size:20px;
+		color:black;
+		font-weight:bold;
+		
+	}
+	.case_industry_normal_2{
+		font-size: 16px;
+		color:black;
+		font-weight:bold;
+	
+		
+		
+	}
+	.case_industry_normal_div{
+		background-color:#F5EEE6;
+		border-left:10px solid #FFC900
+	
+	}
+	
 
 	.footer_btn a{
 		width: 295px;
