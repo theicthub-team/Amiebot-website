@@ -72,6 +72,14 @@
 	}
 }
 @media (max-width: 765px) {
+
+	.footer_btn a{
+		width: 295px;
+		height: 55px;
+		padding: 27px 86px 27px 50px;
+		font-family: yugothic;
+		font-size: 25px;
+	}
 	.col-md-6.wrapper {
 		position: relative;
 		left: -1%;
@@ -291,6 +299,42 @@
 		min-height: 60px;
 		height: 60px;
 	}
+	.page_name_sp{ 
+		background:  #FDF8D0 ;
+		min-height: 50px;
+		padding-top: 10px;
+	}
+	.page_name_sp h1{ 
+		display: inline;
+		font-family: Josefin Sans;
+		font-size: 25px;
+		color: #ED7B2F;
+	}
+	.page_name_sp h5{ 
+		display: inline;
+		font-family: yugothic;
+		float: right;
+		margin-top: 10px;
+		font-size: 13px;
+		color: #ED7B2F;
+	}
+	.page_Title_sp{
+		min-height: 130px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.page_Title_sp h2{
+		color: white;
+		font-family: yugothic;
+		font-size: 15px;
+		font-weight: bold;
+	}
+	.page_Title_sp h2, p{
+		font-family: yugothic;
+		color: white;
+		font-size: 10px;
+		
+	}
 }
 
 /*Small devices (landscape phones, 575px and down)*/
@@ -311,7 +355,7 @@
 		padding: 10px 80px;
 	}
 	.footer_btn a {
-		padding: 13px 20px;
+		padding: 17px 20px;
 		font-size: 14px;
 	}
 	

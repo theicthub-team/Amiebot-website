@@ -17,6 +17,15 @@
    padding-top: 24px;
    
 }
+.navbar-nav li a svg {
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 10px;
+    margin-left: 24px;
+ }
+ .navbar-nav li a svg {
+    color: #ED7B2F;
+ }
 .navbar-nav li{
     min-width: 90px;
 }
@@ -24,4 +33,76 @@
     font-family: yugothic;
     font-size: 12px;
     font-weight: 500;
+}
+.bg_button, .bg_button{
+    font-weight: bold;
+}
+.d-block.text-rigth a {
+    background: #FF9800;
+}
+.footer_btn a{
+    width: 555px;
+    height: 83px;
+    padding: 27px 86px 27px 50px;
+    font-family: yugothic;
+    font-size: 25px;
+}
+#scrollUp {
+    right: 12px;
+    bottom: 38px;
+}
+.breadcrumb {
+    margin-bottom: 0rem;
+    background-color: #ffffff;
+}
+
+.page_name_blank{ 
+    width: 35%;
+    background:  #FDF8D0 ;
+    min-height: 160px;
+    padding-top: 30px;
+}
+.page_Title_blank{
+    width: 65%;
+    min-height: 160px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.page_name{ 
+    width: 35%;
+    min-height: 160px;
+    padding-top: 30px;
+    transform: translateY(-162px);
+    padding-left: 15px;
+
+}
+.page_Title{
+    width: 65%;
+    min-height: 160px;
+    padding-left: 20px;
+    padding-top: 35px;
+    transform: translateY(-162px);
+    padding-right: 15px;
+
+}
+.page_name h1{
+    color: #ED7B2F;
+    font-family: Josefin Sans;
+    font-size: 54px;
+    letter-spacing: 50;
+}
+.page_name h5{
+    color: #ED7B2F;
+    font-family: yugothic;
+    font-size: 20px;
+}
+.page_Title h2{
+    color:white;
+    font-family: yugothic;
+    font-size: 28px;
+}
+.page_Title p{
+    color:white;
+    font-family: yugothic;
+    font-size: 16px;
 }

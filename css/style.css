@@ -487,7 +487,7 @@ label {
 .main_amie_news span {
 	font-size: 18px;
 	line-height: 126px;
-	position: absolute;
+	/* position: absolute; */
 	left: 53%;
 }
 .main_amie_news {
@@ -560,11 +560,7 @@ tr td:first-child {
 	background: var(--theme_bg);
 	padding: 46px 0 56px 0;
 }
-.footer_btn{
-	width: 555px ;
-	height:83px;
-	padding:95px 303px 57px 342px;
-}
+
 
 .footer_btn a {
   padding: 22px 89px 22px 86px;
