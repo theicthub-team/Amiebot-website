@@ -1,14 +1,14 @@
 <?php include 'header.php'; ?>
 
  <div class="container">
-    <h2 class="case_industry_heading_1 d-inline">
+    <h2 class="case_industry_heading_1">
         建設業・製造業
     </h2>
-    <h2 class="d-inline case_industry_heading_2 p-2" >社内特化</h2>
+    <h2 class=" case_industry_heading_2 p-2" >社内特化</h2>
     <div class="case_industry_yellow ">
-        <p class="case_industry_yellow_bg p-1 " style="width:300px">設備マニュアル・施工事例を簡単に検索</p>
-        <p class="case_industry_yellow_bg p-1 " style="width:279px">業界に特化した専門用語を簡単登録</p>
-        <p class="case_industry_yellow_bg p-1 " style="width:300px">社内共有情報・メルマガなどの簡単検索</p>
+        <p class="case_industry_yellow_bg  " >設備マニュアル・施工事例を簡単に検索</p>
+        <p class="case_industry_yellow_bg  " >業界に特化した専門用語を簡単登録</p>
+        <p class="case_industry_yellow_bg " >社内共有情報・メルマガなどの簡単検索</p>
 
 
 
@@ -58,7 +58,7 @@
     </div>
     
     </div>
-    <div class="text-center mb-120">
+    <div class="text-center mb-120 mt-190">
             <a href="#" class="bg_button">一覧に戻る <i class="fas fa-caret-right"></i></a>
     </div>
 

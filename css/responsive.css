@@ -75,12 +75,14 @@
 		height:30px;
 		width:240px;
 		font-weight:bold;
+		display: inline;
 	}
 	.case_industry_heading_2{
 		font-size: 16px;
 		height: 30px;
 		width: 115px;
 		background-color: #F5EEE6;
+		display: inline;
 	}
 	.case_industry_yellow{
 		margin-top: 42px;
@@ -117,9 +119,16 @@
 		border-left:10px solid #FFC900
 	
 	}
-	
+	.case_industry_yellow p{
+		width:310px;
+		padding-left:10px;
+	}
 }
 @media (max-width: 765px) {
+	.case_industry_yellow p{
+		
+		padding-left:10px;
+	}
 	.case_industry_heading_1{
 		font-size:30px;
 		height:30px;
