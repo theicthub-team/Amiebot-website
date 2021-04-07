@@ -650,3 +650,34 @@ footer p {
 .case_industry_heading{
 	margin-top: 10px;
 }
+
+/* flow_price*/
+.flow_item_text {
+    position: relative;
+    text-align: center;
+}
+.flow_item_text::before {
+    position: absolute;
+    right: -51px;
+    top: 75px;
+    border-left: 22px solid yellow;
+    border-right: 18px solid transparent;
+    content: "";
+    border-top: 18px solid transparent;
+    border-bottom: 18px solid transparent;
+}
+.flow_item_text img {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+a.p-2.button_change {
+    background: #F5EEE6;
+    color: #ED7B2F;
+    text-decoration: none;
+}
+.flow_item_disc p {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
