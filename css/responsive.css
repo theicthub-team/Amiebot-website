@@ -110,7 +110,7 @@
 		font-size: 16px;
 		color:black;
 		font-weight:bold;
-			
+
 	}
 	.case_industry_normal_div{
 		background-color:#F5EEE6;
@@ -120,6 +120,10 @@
 	.case_industry_yellow p{
 		width:320px;
 		padding-left:10px;
+	}
+	.price_sec_2{
+		width: 780px;
+		margin-left: 210px;
 	}
 }
 @media (max-width: 765px) {
